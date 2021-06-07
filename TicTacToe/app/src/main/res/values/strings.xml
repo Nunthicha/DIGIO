@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="start">START</string>
+    <string name="select_grid">Select\nBoard\nSize</string>
+    <string name="_3_x_3">3 x 3</string>
+    <string name="_4_x_4">4 x 4</string>
+    <string name="_5_x_5">5 x 5</string>
+    <string name="_6_x_6">6 x 6</string>
+    <string name="_7_x_7">7 x 7</string>
+    <string name="_8_x_8">8 x 8</string>
+    <string name="_9_x_9">9 x 9</string>
+    <string name="_10_x_10">10 x 10</string>
+    <string name="play_again">Play again</string>
+    <string name="move_historyy">Move History</string>
+    <string name="tic_tac_toe">TIC TAC TOE</string>
+    <string name="threeforwin">The first player to get <b> 3 </b> of marks in a row\n(up, down, across, or diagonally) is the winner.</string>
+    <string name="fourforwin">The first player to get <b> 4 </b> of marks in a row\n(up, down, across, or diagonally) is the winner.</string>
+    <string name="fiveforwin">The first player to get <b> 5 </b> of marks in a row\n(up, down, across, or diagonally) is the winner.</string>
+</resources>
